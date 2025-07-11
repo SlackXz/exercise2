@@ -1,0 +1,15 @@
+# Cenário de Vazamento de Dados – CPFL
+
+## Descrição do Incidente
+
+Em julho de 2025, foi identificado um vazamento de dados envolvendo a CPFL após a detecção de um arquivo publicado em um fórum da deep e dark web. O arquivo continha informações sensíveis de aproximadamente 100 colaboradores da empresa. 
+
+Os dados expostos incluíam:
+- **Nomes completos**
+- **Telefones**
+- **Credenciais de acesso (usuário e senha)**
+
+## Descoberta
+
+O incidente foi descoberto por meio de monitoramento de inteligência cibernética, que identificou menção à CPFL em fóruns utilizados para compartilhamento e comercialização de dados ilícitos. 
+A análise inicial indicou que o vazamento ocorreu recentemente e que os dados estavam disponíveis para download por qualquer usuário do fórum.
